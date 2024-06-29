@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rindlest.github.io/sitemap
+Sitemap: https://rindlest.github.io/app/sitemap
+Sitemap: https://rindlest.github.io/assets/sitemap
+Sitemap: https://rindlest.github.io/css/sitemap
+Sitemap: https://rindlest.github.io/includes/sitemap
+Sitemap: https://rindlest.github.io/item/sitemap
+Sitemap: https://rindlest.github.io/src/sitemap
